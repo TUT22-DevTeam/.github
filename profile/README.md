@@ -1,4 +1,4 @@
-[![logo](/profile/image/tut22.png)]
+[![logo](/profile/logo/tut22.png)]
 
 <hr>
 
